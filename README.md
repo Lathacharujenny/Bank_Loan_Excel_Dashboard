@@ -52,4 +52,4 @@ This project features an interactive Excel-based dashboard that provides a compr
 
 ## Report
 - If you like to view the dashboard in pdf form click the below link
-  (Report)[Dashboard.pdf]
+  [Report](Dashboard.pdf)
